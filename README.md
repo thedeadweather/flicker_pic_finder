@@ -1,4 +1,4 @@
 Flicker pic finder
 ======
 
-Simple study app to grab flicker pictures, founded by tags, via flicker js api.
+Simple study app to grab flicker pictures, founded by tags, using flicker js api.
